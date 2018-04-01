@@ -25,6 +25,3 @@ print(cars) # Output: ['Skoda', 'Toyota', 'Ford', 'Hyundai']
 
 # length of the list
 print(len(cars)) # Output: 4
-
-
-
