@@ -10,3 +10,5 @@ digits = list(range(15))
 print(min(digits)) # Output: 0
 print(max(digits)) # Output: 14
 print(sum(digits)) # Output: 105
+
+# Exercise: Find average of digits
