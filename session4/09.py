@@ -1,7 +1,7 @@
 """
 Lists inside dictionaries
 
-A dictionary valley can be anything! even a list!
+A dictionary value can be anything! even a list!
 """
 pogba = {
     'name': 'Paul Pogba',
