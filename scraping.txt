@@ -1,0 +1,34 @@
+Web Scraping
+
+Goal is to get the premier league table dynamically at 127.0.0.1/prem-table
+
+Let us assume there is no widget for this purpose. We have to scrap through another website's table and reproduce it on ours.
+
+Hint: BeautifulSoup
+
+table example:
+<table>
+    <tr>
+        <th>Team</th>
+        <th>Played</th>
+        <th>Won</th>
+        ...
+    </tr>
+
+    <tr>
+        <td>Manchester city</td>
+        <td>38</td>
+        <td>32</td>
+        ...
+    </tr>
+
+    <tr>
+        <td>Manchester United</td>
+        <td>38</td>
+        ...
+    </tr>
+</table>
+
+
+Level 2:
+Bonus points to display green/red/grey barsets for win/loss/draw in the last six games
